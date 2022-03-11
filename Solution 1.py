@@ -14,7 +14,7 @@
 
 
 
- def array(x): 
+   def array(x): 
 
       
 
@@ -31,7 +31,7 @@
                abc.append("W")   
 
       elif i==(x-1): 
-
+ 
           mid=size//2 
 
           finalrow=game[x-1]     
