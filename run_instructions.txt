@@ -1,6 +1,6 @@
       The Program is written on Python 
 
-      Please find the attached Program file "solution 1""solution 2""solution 3""solution 4""solution 5". I have done programming in Python language.
+      Please find the attached Program file "solution 1.py""solution 2.py""solution 3.py""solution 4.py""solution 5.py". I have done programming in Python language.
        
 
       I have done the problem "Ball Brick" as part of the interview,Assignment process of ZOHO recruitment. I finished entire part of the problem given. 
