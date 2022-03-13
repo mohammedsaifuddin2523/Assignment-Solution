@@ -1,5 +1,5 @@
 #  ZOHO BALL BRICK SOLUTION
-The program is written on Python3. solution 1, solution 2, solution 3, solution 4, solution 5 are the solutions to the given questions respectively. 
+The program is written on Python3. solution 01, solution 02, solution 03, solution 04, solution 05 are the solutions to the given questions respectively. 
 
 
 
